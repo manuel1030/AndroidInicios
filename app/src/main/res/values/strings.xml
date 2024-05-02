@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">AndroidMasterNuevo</string>
+    <string name="male">Hombre</string>
+    <string name="female">Mujer</string>
+    <string name="height">Altura</string>
+    <string name="weigth">Peso</string>
+    <string name="age">Años</string>
+    <string name="calculate">Calcular</string>
+    <string name="result">Tu Resultado</string>
+    <string name="recalculate">Re-Calcular</string>
+    <string name="error">Error</string>
+
+    <string name="title_bajo_peso">Bajo peso</string>
+    <string name="descripcion_bajo_peso">Estás por debajo del lo óptimo para tu peso y altura</string>
+
+    <string name="title_peso_normal">Normal</string>
+    <string name="descripcion_peso_normal">Estás en lo óptimo para tu peso y altura</string>
+
+    <string name="title_sobre_peso">Sobre peso</string>
+    <string name="descripcion_sobre_peso">Estás por encima del lo óptimo para tu peso y altura</string>
+
+    <string name="title_obesidad">Obesidad</string>
+    <string name="descripcion_obesidad">Estás muy por encima del lo óptimo para tu peso y altura</string>
+    <!--TodoApp-->
+    <string name="todo_title">Bienvenido, Manuel</string>
+    <string name="todo_category">Categorías </string>
+    <string name="todo_task">Tareas</string>
+    <string name="todo_dialog_add_task">Añade la tarea</string>
+    <string name="todo_task_business">Negocios</string>
+    <string name="todo_task_personal">Personal</string>
+    <string name="todo_task_other">Otros</string>
+    <string name="todo_add_task">Agregar Tarea</string>
+
+    <!--Setings-->
+    <string name="setting_title_modo_oscuro">Modo Oscuro</string>
+    <string name="setting_Descripcion_modo_oscuro">Activa el modo oscuro</string>
+    <string name="setting_title_bluotooth">Bluotooth</string>
+    <string name="setting_Descripcion_bluotooth">Activa el Bluotooth</string>
+    <string name="setting_title_volumen">Volumen</string>
+    <string name="setting_title_vidration">Activar vibracion</string>
+</resources>
